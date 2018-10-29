@@ -6,3 +6,5 @@ require_once 'shortcodes/qode-twitter-feed.php';
 include_once 'shortcodes/load.php';
 
 <--This is comment-->
+<--This is comment-->
+  
